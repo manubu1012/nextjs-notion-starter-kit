@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'stay with Mike',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://third-adasaurus-626.notion.site/stay-with-Mike-01a2c0dafc0d404fb34e33d0c403ce61?pvs=4',
   author: 'Mike',
 
   // open graph metadata (optional)
